@@ -1,4 +1,5 @@
 {
+	"files" : [ "spec/%S+",  "tests/%S+" ],
 	"settings": {
 		"Lua.workspace.library": [
 			"${3rd}/luassert/library"
